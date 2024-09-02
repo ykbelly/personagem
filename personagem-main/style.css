@@ -2,6 +2,22 @@ body {
     background-color: rgb(119, 141, 141);
 }
 
-.nome do personagem{
-    
+.nome { 
+    color: gainsboro;
+    text-align: center;
+}
+
+.foto {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: groove;
+}
+
+.sobre {
+    color: gainsboro;
+}
+
+.hobbies {
+    color: gainsboro;
 }
