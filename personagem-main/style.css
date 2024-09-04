@@ -1,10 +1,12 @@
 body {
+    text-align: center;
     background-color: rgb(119, 141, 141);
+    background-image: url(img/1597580143_screenshot_5.webp);
 }
+
 
 .nome { 
     color: gainsboro;
-    text-align: center;
 }
 
 .foto {
@@ -15,9 +17,39 @@ body {
 }
 
 .sobre {
+    font-style: italic;
     color: gainsboro;
+    margin: 10px;
+}
+
+.sobre2 {
+text-align: center;
+font-size: medium;
+color: gainsboro;
 }
 
 .hobbies {
+    font-style: italic;
     color: gainsboro;
 }
+
+div.container {
+    text-align: center;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+    font-size: medium;
+    color: gainsboro;
+}
+
+.insta:hover {
+    transform: scale(1.1);
+}
+
+.link:hover {
+    color: forestgreen;
+}
+
+
