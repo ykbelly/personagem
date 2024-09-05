@@ -6,7 +6,7 @@ body {
 
 
 .nome { 
-    color: gainsboro;
+    color: rgb(6, 39, 6);
 }
 
 .foto {
@@ -18,7 +18,7 @@ body {
 
 .sobre {
     font-style: italic;
-    color: gainsboro;
+    color: rgb(6, 39, 6);
     margin: 10px;
 }
 
@@ -30,7 +30,7 @@ color: gainsboro;
 
 .hobbies {
     font-style: italic;
-    color: gainsboro;
+    color: rgb(6, 39, 6);
 }
 
 div.container {
